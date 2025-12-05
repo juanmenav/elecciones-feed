@@ -2,17 +2,17 @@
 <rss version="2.0">
   <channel>
     <title>Resultados Electorales Comunales</title>
-    <link>https://tuusuario.github.io/elecciones-feed/</link>
+    <link> https://juanmenav.github.io/elecciones-feed/</link>
     <description>Resultados comunales actualizados</description>
     <item>
       <title>Comuna de Santiago</title>
       <description>Ganador: A. Pérez (45.2%). Escrutado: 80%.</description>
-      <pubDate>jue, 04 dic. 2025 17:24:33 GMT</pubDate>
+      <pubDate>vie, 05 dic. 2025 10:30:01 GMT</pubDate>
     </item>
     <item>
       <title>Comuna de Providencia</title>
       <description>Ganador: B. Soto (52.8%). Escrutado: 76%.</description>
-      <pubDate>jue, 04 dic. 2025 17:24:33 GMT</pubDate>
+      <pubDate>vie, 05 dic. 2025 10:30:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
