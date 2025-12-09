@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Resultados Electorales por region</title>
+    <link> https://juanmenav.github.io/elecciones-feed/</link>
+    <description>Resultados regionales actualizados</description>
+    <item>
+      <title>ANTOFAGASTA: Jara 22.4% - Kast 17.3%</title>
+    </item>
+    <item>
+      <title>ARICA Y PARINACOTA: Jara 21.8% - Kast 21%</title>
+    </item>
+    <item>
+      <title>ATACAMA: Jara 25.4% - Kast 18%</title>
+    </item>
+    <item>
+      <title>AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO: Jara 26.1% - Kast 22.1%</title>
+    </item>
+    <item>
+      <title>BIOBIO: Jara 21.3% - Kast 26.1%</title>
+    </item>
+    <item>
+      <title>COQUIMBO: Jara 26.3% - Kast 18.2%</title>
+    </item>
+    <item>
+      <title>EXTRANJERO: Jara 46.3% - Kast 16.7%</title>
+    </item>
+    <item>
+      <title>LA ARAUCANIA: Jara 18.9% - Kast 31.4%</title>
+    </item>
+    <item>
+      <title>LIBERTADOR GENERAL BERNARDO O'HIGGINS: Jara 23.5% - Kast 24.5%</title>
+    </item>
+    <item>
+      <title>LOS LAGOS: Jara 21.2% - Kast 26%</title>
+    </item>
+    <item>
+      <title>LOS RIOS: Jara 23.6% - Kast 25.9%</title>
+    </item>
+    <item>
+      <title>MAGALLANES Y DE LA ANTARTICA CHILENA: Jara 27.5% - Kast 22.4%</title>
+    </item>
+    <item>
+      <title>MAULE: Jara 20.8% - Kast 29.3%</title>
+    </item>
+    <item>
+      <title>METROPOLITANA: Jara 30.1% - Kast 21.1%</title>
+    </item>
+    <item>
+      <title>TARAPACA: Jara 21.2% - Kast 21.8%</title>
+    </item>
+    <item>
+      <title>VALPARAISO: Jara 28.3% - Kast 19.4%</title>
+    </item>
+    <item>
+      <title>ÑUBLE: Jara 18.4% - Kast 30.5%</title>
+    </item>
+  </channel>
+</rss>
