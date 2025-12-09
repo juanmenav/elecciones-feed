@@ -1,4 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <proyecciones>
-  <resumen Candidatos="c(&quot;Eduardo Antonio Artes Brichetti&quot;, &quot;Evelyn Matthei Fornet&quot;, &quot;Franco Parisi Fernandez&quot;, &quot;Harold Mayne-nicholls Secul&quot;, &quot;Jeannette Jara Roman&quot;, &quot;Johannes Kaiser Barents-von Hohenhagen&quot;, &quot;Jose Antonio Kast Rist&quot;, &quot;Marco Antonio Enriquez-ominami Gumucio&quot;, &quot;Nulo/blanco&quot;)" Proyeccion="c(`Eduardo Antonio Artes Brichetti` = 0.00505157738380186, `Evelyn Matthei Fornet` = 0.12280851131416, `Franco Parisi Fernandez` = 0.191359428819604, `Harold Mayne-nicholls Secul` = 0.0124863925735029, `Jeannette Jara Roman` = 0.271026854743685, `Johannes Kaiser Barents-von Hohenhagen` = 0.138701844197051, `Jose Antonio Kast Rist` = 0.22588881481312, `Marco Antonio Enriquez-ominami Gumucio` = 0.0113135633191218, `Nulo/blanco` = 0.0213630128359526)" CI_lower="c(`Eduardo Antonio Artes Brichetti` = 0.00471904920999465, `Evelyn Matthei Fornet` = 0.117717383254134, `Franco Parisi Fernandez` = 0.183385642831238, `Harold Mayne-nicholls Secul` = 0.0120506408427145, `Jeannette Jara Roman` = 0.26434517132027, `Johannes Kaiser Barents-von Hohenhagen` = 0.135443127826134, `Jose Antonio Kast Rist` = 0.219011717862666, `Marco Antonio Enriquez-ominami Gumucio` = 0.0109179331146162, `Nulo/blanco` = 0.0197282336792239)" CI_upper="c(`Eduardo Antonio Artes Brichetti` = 0.00538410555760907, `Evelyn Matthei Fornet` = 0.127899639374187, `Franco Parisi Fernandez` = 0.19933321480797, `Harold Mayne-nicholls Secul` = 0.0129221443042914, `Jeannette Jara Roman` = 0.277708538167101, `Johannes Kaiser Barents-von Hohenhagen` = 0.141960560567967, `Jose Antonio Kast Rist` = 0.232765911763574, `Marco Antonio Enriquez-ominami Gumucio` = 0.0117091935236274, `Nulo/blanco` = 0.0229977919926813)"/>
+  <resumen>
+    <candidato nombre="Eduardo Antonio Artes Brichetti">
+      <proyeccion>0.005052</proyeccion>
+      <ci lower="0.004719" upper="0.005384"/>
+    </candidato>
+    <candidato nombre="Evelyn Matthei Fornet">
+      <proyeccion>0.122809</proyeccion>
+      <ci lower="0.117717" upper="0.127900"/>
+    </candidato>
+    <candidato nombre="Franco Parisi Fernandez">
+      <proyeccion>0.191359</proyeccion>
+      <ci lower="0.183386" upper="0.199333"/>
+    </candidato>
+    <candidato nombre="Harold Mayne-nicholls Secul">
+      <proyeccion>0.012486</proyeccion>
+      <ci lower="0.012051" upper="0.012922"/>
+    </candidato>
+    <candidato nombre="Jeannette Jara Roman">
+      <proyeccion>0.271027</proyeccion>
+      <ci lower="0.264345" upper="0.277709"/>
+    </candidato>
+    <candidato nombre="Johannes Kaiser Barents-von Hohenhagen">
+      <proyeccion>0.138702</proyeccion>
+      <ci lower="0.135443" upper="0.141961"/>
+    </candidato>
+    <candidato nombre="Jose Antonio Kast Rist">
+      <proyeccion>0.225889</proyeccion>
+      <ci lower="0.219012" upper="0.232766"/>
+    </candidato>
+    <candidato nombre="Marco Antonio Enriquez-ominami Gumucio">
+      <proyeccion>0.011314</proyeccion>
+      <ci lower="0.010918" upper="0.011709"/>
+    </candidato>
+    <candidato nombre="Nulo/blanco">
+      <proyeccion>0.021363</proyeccion>
+      <ci lower="0.019728" upper="0.022998"/>
+    </candidato>
+  </resumen>
 </proyecciones>
