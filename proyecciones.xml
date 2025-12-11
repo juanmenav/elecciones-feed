@@ -2,16 +2,12 @@
 <proyecciones>
   <resumen>
     <candidato nombre="Jeannette Jara Roman">
-      <proyeccion>0.488343</proyeccion>
-      <ci lower="0.476672" upper="0.500015"/>
+      <proyeccion>0.526158</proyeccion>
+      <ci lower="0.513383" upper="0.538932"/>
     </candidato>
     <candidato nombre="Jose Antonio Kast Rist">
-      <proyeccion>0.440207</proyeccion>
-      <ci lower="0.428031" upper="0.452383"/>
-    </candidato>
-    <candidato nombre="Nulo/blanco">
-      <proyeccion>0.071450</proyeccion>
-      <ci lower="0.069726" upper="0.073173"/>
+      <proyeccion>0.473842</proyeccion>
+      <ci lower="0.461068" upper="0.486617"/>
     </candidato>
   </resumen>
 </proyecciones>
