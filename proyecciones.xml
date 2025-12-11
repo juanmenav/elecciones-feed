@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <proyecciones>
   <resumen>
-    <candidato nombre="Eduardo Antonio Artes Brichetti">
-      <proyeccion>0.006396</proyeccion>
-      <ci lower="0.006184" upper="0.006608"/>
-    </candidato>
-    <candidato nombre="Evelyn Matthei Fornet">
-      <proyeccion>0.119963</proyeccion>
-      <ci lower="0.115295" upper="0.124632"/>
-    </candidato>
-    <candidato nombre="Franco Parisi Fernandez">
-      <proyeccion>0.189743</proyeccion>
-      <ci lower="0.181661" upper="0.197826"/>
-    </candidato>
-    <candidato nombre="Harold Mayne-nicholls Secul">
-      <proyeccion>0.012137</proyeccion>
-      <ci lower="0.011766" upper="0.012507"/>
-    </candidato>
     <candidato nombre="Jeannette Jara Roman">
-      <proyeccion>0.258437</proyeccion>
-      <ci lower="0.251949" upper="0.264926"/>
-    </candidato>
-    <candidato nombre="Johannes Kaiser Barents-von Hohenhagen">
-      <proyeccion>0.134156</proyeccion>
-      <ci lower="0.131002" upper="0.137310"/>
+      <proyeccion>0.488343</proyeccion>
+      <ci lower="0.476672" upper="0.500015"/>
     </candidato>
     <candidato nombre="Jose Antonio Kast Rist">
-      <proyeccion>0.230265</proyeccion>
-      <ci lower="0.223358" upper="0.237171"/>
-    </candidato>
-    <candidato nombre="Marco Antonio Enriquez-ominami Gumucio">
-      <proyeccion>0.011511</proyeccion>
-      <ci lower="0.011198" upper="0.011823"/>
+      <proyeccion>0.440207</proyeccion>
+      <ci lower="0.428031" upper="0.452383"/>
     </candidato>
     <candidato nombre="Nulo/blanco">
-      <proyeccion>0.037392</proyeccion>
-      <ci lower="0.036524" upper="0.038259"/>
+      <proyeccion>0.071450</proyeccion>
+      <ci lower="0.069726" upper="0.073173"/>
     </candidato>
   </resumen>
 </proyecciones>
