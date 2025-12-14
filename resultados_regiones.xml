@@ -1,60 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Resultados Electorales por region</title>
-    <link> https://juanmenav.github.io/elecciones-feed/</link>
-    <description>Resultados regionales actualizados</description>
-    <item>
-      <title>ANTOFAGASTA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>ARICA Y PARINACOTA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>ATACAMA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>BIOBIO: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>COQUIMBO: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>EXTRANJERO: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>LA ARAUCANIA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>LIBERTADOR GENERAL BERNARDO O'HIGGINS: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>LOS LAGOS: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>LOS RIOS: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>MAGALLANES Y DE LA ANTARTICA CHILENA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>MAULE: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>METROPOLITANA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>TARAPACA: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>VALPARAISO: JARA 0% - KAST 0%</title>
-    </item>
-    <item>
-      <title>ÑUBLE: JARA 0% - KAST 0%</title>
-    </item>
     <title>Resultados Electorales por región</title>
     <link> https://juanmenav.github.io/elecciones-feed/</link>
     <description>Resultados regionales actualizados</description>
